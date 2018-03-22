@@ -1,0 +1,73 @@
+body {
+	background-color: #b8c7db;
+	max-width: 100%;
+}
+
+h1 {
+	border:10px solid #04541a;
+	border-style: double;
+	width:250px;
+	margin: 20px auto;
+	text-align: center; 
+	padding: 30px;
+	margin-bottom:10px;
+}
+
+h3 {
+	color: blue;
+	 font-style:italic;
+}
+
+
+#sketch { 
+	border:none;
+	width:100vw;
+	height:40vh;
+
+}
+
+h5 {
+	border:10px solid #04541a;
+	border-style: double;
+	width:200px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 30px;
+	font-style:;
+}
+
+ul{
+	background-color: #bdf4fc;
+	margin-top: 50px;
+	width:100%;
+	margin-bottom:40px;
+	font-size:20px;
+	height:60px;
+	line-height: 60px;
+
+}
+
+
+ul li{
+	float:left;
+	list-style-type: none;
+	padding-right: 80px;
+	padding-left: 20px;
+}
+
+ul li a {
+	color:#001687;
+	text-decoration: none;
+}
+
+ul li a:hover {
+	color: #edcd02
+	font-weight:bold;
+
+}
+
+
+
+
+
+
