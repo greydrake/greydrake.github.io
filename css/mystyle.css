@@ -2,6 +2,10 @@ body {
 	background-color: #b8c7db;
 	max-width: 100%;
 }
+#black {
+	background-color: #000000;
+	max-width: 100%;
+}
 
 h1 {
 	border:10px solid #04541a;
