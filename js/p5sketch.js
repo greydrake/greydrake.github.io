@@ -4,7 +4,7 @@ function setup() {
   // put setup code here
   background(204); // 5
   // (windowWidth-20,winddowHeight-20);
-  // noStroke();
+   noStroke();
 
   fill(79,19,156,4);
 }
