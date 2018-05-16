@@ -3,8 +3,7 @@
 function setup() {
   // put setup code here
   background(204); // 5
-  createCanvas(480, 120);
-  // (windowWidth-20,winddowHeight-20);
+  createCanvas(windowWidth,winddowHeight);
    noStroke();
 
   fill(79,19,156,4);
