@@ -1,15 +1,15 @@
 
 
-function ssetup() {
+function setup() {
   // put setup code here
-  background(5);
-  createCanvas(windowWidth-20,winddowHeight-20);
-noStroke();
+  background(204); // 5
+  // (windowWidth-20,winddowHeight-20);
+  // noStroke();
 
   fill(79,19,156,4);
 }
 
-function sdraw() {
+function draw() {
   // put drawing code here
 
 
@@ -18,10 +18,10 @@ function sdraw() {
 }
 
 
-function setup() {
+function asetup() {
 // put setup code here
 }
-function draw() {
+function adraw() {
 background(204);
 ellipse(50, 50, 80, 80);
 }
