@@ -19,6 +19,7 @@
 	</ul>
 
 <h1>p5sketch</h1>
+ <!--
  <script>
 
 function setup() {
@@ -38,5 +39,6 @@ function draw() {
   ellipse(pmouseX, pmouseY, 20, 20);
 }
 </script>
+-->
 </body>
 </html>
